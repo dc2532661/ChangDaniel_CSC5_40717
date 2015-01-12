@@ -16,7 +16,7 @@ using namespace std;
 //Execution begins here
 
 int main(int argc, char** argv) {
-    float AfterChanging;//how many acre equal 391876 square feet of land
+     float AfterChanging;//how many acre equal 391876 square feet of land
     float Acre=43560;//1 acre = 43560 square feet
     float Total=391876;//There has 391876 square feet of land
     //Calculate and display how many acre equal 391876 square feet of land
