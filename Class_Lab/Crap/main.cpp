@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
     cout<<"Total Win/Loss = "<<win+loss<<endl;
     cout<<"Percent wins = "<<100.0f*win/nGames<<"%"<<endl;
     cout<<"Percent loss = "<<100.0f*loss/nGames<<"%"<<endl;
-    cout<<"Averaqe Throws/Game = "<<1.0f*nThrows/nGames<<endl;
+    cout<<"Average Throws/Game = "<<1.0f*nThrows/nGames<<endl;
     cout<<"During one of the games a set of dice was thrown "
         <<maxThrow<<"(times)"<<endl;
     //Exit stage right
